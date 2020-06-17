@@ -1,0 +1,343 @@
+indicator,id,name
+1rm5,1,"People-centered, innovative, clean, efficient, effective and inclusive delivery of public goods and services ensured"
+2rm5,84,Anti-corruption intiatives improved
+2rm5,85,Seamless service delivery achieved
+3rm5,151,Proportion of children under 5 years of age whose births have been registered with a civil authority increased (%)
+3rm5,152,Number of regulatory agencies covered by the regulatory review increased
+3rm5,153,Number of OFW Helpdesks (OHDs) available increased
+2rm5,86,Administrative governance enhanced
+3rm5,154,Rightsizing the National Government Act of 2017 passed
+3rm5,155,"Proportion of LGUs adopting PFM improvement measures (cumulative, %)"
+2rm5,87,Citizenry fully engaged and empowered
+3rm5,156,Number of voters' education and information campaigns conducted increased
+3rm5,157,"Percentage of PCMs with the required NGO representation in the Local Development Council (including ARMM) increased:
+- Provinces;
+- Cities;
+- Municipalities; and
+- All NGAs fully complying with the Transparency Seal"
+3rm5,158,"Number of PCMs fully disclosing financial documents to the public:
+- Provinces;
+- Cities; and
+- Municipalities"
+2rm5,88,Civil service accountability and performance management enhanced
+1rm6,2,Swift and fair administration of justice ensured
+2rm6,89,"Civil, criminal, commercial and administrative justice systems enhanced"
+3rm6,159,Number of justice zones established increased
+3rm6,160,Number of courts with rolled-out continous trial increased
+3rm6,161,Number of courts with rolled-out e-courts increased
+3rm6,162,Philippine Mediation Center (PMC) units established
+2rm6,90,Sector efficiency and accountability improved
+3rm6,163,Percentage of qualified inmates (based on court orders for release) in city/municipal/district jails released on time maintained
+3rm6,164,Percentage of qualified inmates (granted parole/pardon and served sentence) in national prisons released on time maintained
+3rm6,165,Prosecutor to court ratio improved (cumulative)
+3rm6,166,Public attorney to court ratio improved (cumulative)
+3rm6,167,All requests for free legal assistance/representation acted upon within three (3) working days from date of request maintained (%)
+3rm6,168,Victims Compensation Program beneficiaries increased
+1rm7,3,Philippine culture and values promoted
+2rm7,91,-
+3rm7,169,Enhanced tolerance and respecting for others
+3rm7,170,Heightened pride of place and pride of being Filipino
+3rm7,171,Distribution of cultural infrastructure improved
+2rm7,134,Diverse cultures valued
+3rm7,172,Number of declared heritage and historical structures with completed State of Conservation reports (SOCs) increased
+3rm7,326,Number of documentations conducted on Philippine intangible cultural heritage and indigenous knowledge systems and practices increased
+2rm7,135,"""Pagkamalikhain"" values of creative excellence advanced "
+3rm7,327,Increased level of awareness of creativity
+3rm7,328,Number of recognized or awarded creative works and artists
+3rm7,329,Number of declared UNESCO creative cities in the Philippines increased
+3rm7,330,Number of regional arts academies and schools implementing special programs in the arts increased
+3rm7,396,Number of Filipino copyrights registered increased
+3rm7,397,Number of trained designers increased (incremental) 
+2rm7,136,Values that foster the common good inculcated 
+3rm7,398,Number of agencies with programs that promote Filipino values for the common good at the level of public service increased 
+2rm7,137,Culture-sensitive public governance and development strengthened 
+3rm7,399,Number of cultural hubs established for cultural exchange activities and other activities of the community
+3rm7,400,"Percentage of municipalities, cities, and provinces with Local Culture and Arts Councils established (cumulative)"
+3rm7,401,"Percentage of municipalities, cities, and provinces with local cultural inventories submitted (cumulative)"
+3rm7,402,"Percentage of municipalities, cities, and provinces with Indigenous Peoples Mandatory Representation (IPMR) (cumulative)"
+1rm8,4,"Economic opportunities in agriculture, forestry and fisheries expanded"
+2rm8,92,"Agriculture, forestry and fisheries productivity within ecological limit improved"
+3rm8,173,"Program area for perennial crops provided with technical support services increased (ha)
+(Mango, Coffee, Cacao,Rubber, Banana, Pineapple, Cassava, Abaca and Coconut)"
+3rm8,174,"Program harvest area for staple crops provided with technical support services increased (ha) (Palay, Yellow Corn and White Corn)"
+3rm8,175,Number of group beneficiaries provided with technical support services increased
+3rm8,176,Number of fisherfolk provided with production support increased
+3rm8,177,Number of group beneficiaries provided with agricultural and fishery machineries and equipment increased
+3rm8,178,"Area within the production forest, for tree plantation and non-timber forest products increased (ha, cumulative) (Tree Plantation and Non-Timber Forest Products)"
+2rm8,93,"Agriculture, forestry and fishery-based enterprises increased"
+3rm8,179,Number of AFF-enterprises with technical support increased
+1rm8,5,Access to economic opportunities by small farmers and fisherfolk increased
+2rm8,94,Access to value chains increased
+2rm8,95,Access to technology increased
+3rm8,180,"Share of AFF research and development (R&D) government budget to total AFF GVA increased (%, cumulative)"
+3rm8,181,Number of new technologies increased
+3rm8,182,Number of beneficiaries provided with extension services increased
+2rm8,96,Access to innovative financing increased
+3rm8,183,Number of small farmer/fisherfolk organizations participated in institutional capacity building on innovative financing increased (cumulative)
+3rm8,184,"Proportion of LGUs with established partnerships for the implementation of agricultural insurance to the total number of LGUs increased (%, cumulative)"
+2rm8,97,Access by small farmers and fisherfolk to land and water resources increased and protected
+3rm8,185,"Area distributed under CARP increased (ha, cumulative)"
+3rm8,186,Number of ARBs with EP/CLOAs increased (cumulative)
+3rm8,187,"Area of collective CLOAs subdivided increased (ha, cumulative)"
+3rm8,188,Number of registered fisherfolk provided with livelihood projects increased
+1rm9,6,Economic opportunities in Industry and Services (I&S) expanded
+2rm9,98,Local and foreign investments increased
+3rm9,189,Total approved investments increased (PHP million)
+3rm9,190,Net FDI increased (USD million)
+3rm9,191,Number of harmonized investment promotion activities conducted
+2rm9,99,"Competitiveness, innovativeness and resilience increased"
+3rm9,192,Philippine Business Registry (PBR) fully operationalized (% of agencies' involvement)
+3rm9,193,Number of cities/municipalities with fully- implemented Business Permit and Licensing System connected to the PBR
+3rm9,194,Number of Filipino trademarks registered increased
+2rm9,100,Market access improved
+2rm9,101,Consumer access to safe and quality goods and services ensured
+3rm9,195,Number of consumer awareness and advocacy initiatives undertaken
+3rm9,196,"Number of consumer education, information and communication materials produced"
+1rm9,7,"Increased access to economic opportunities in Industry and Services (I&S) for micro, small and medium enterprises (MSMEs), cooperatives and overseas Filipinos (OFs)"
+2rm9,102,Access to production networks improved
+3rm9,197,Number of MSMEs participating in Global Value Chains
+3rm9,198,Number of MSMEs/Cooperatives integrated into corporate value chains increased
+3rm9,199,Number of Go Negosyo centers established
+2rm9,103,Access to finance improved
+2rm9,104,"Productivity, efficiency and resilience improved"
+3rm9,200,Number of shared service facilities established
+3rm9,201,Number of Small Enterprise Technology Upgrading Program beneficiaries increased
+3rm9,202,Number of clients/customers provided with testing and calibration services increased
+1rm10,8,Human Capital Development Accelerated
+2rm10,105,Nutrition and health for all improved
+3rm10,203,Care at all life stages guaranteed
+3rm10,204,Access through functional service delivery networks ensured
+3rm10,205,Health financing sustained 
+2rm10,106,Lifelong learning opportunities for all ensured
+3rm10,206,"Quality, accessible, relevant, and liberating basic education for all achieved"
+3rm10,207,"Quality of higher education and technical education and research for equity and global competitiveness improved
+
+"
+4rm10,364,"Percentage of students awarded scholarships, grants, and other financial assistance increased (%)"
+4rm10,365,"Percentage of tertiary graduates in science, engineering, manufacturing and construction increased (%)"
+4rm10,366,Percentage of Expanded Tertiary Education Equivalency and Accreditation Program graduates increased (%)
+4rm10,367,Number of curricula and programs developed/revised based on multi-disciplinal platforms that foster 21st century competencies increased (cumulative)
+4rm10,368,"Number of patents, licenses, and royalties issued to HEIs increased (cumulative)"
+4rm10,369,Number of researchers and scientists increased (cumulative)
+4rm10,370,Number of graduate education graduates (MA/PhD) engaged in original research of creative work increased
+4rm10,371,Number of innovation hubs established within HEIs increased (cumulative)
+4rm10,372,Number of HEIs engaged in local and global partnerships and collaborations increased (cumulative)
+4rm10,390,"Government expenditure for higher education research, development, and innovation as a percentage of GDP increased (%)"
+4rm10,391,Certification rate of TVET graduates increased (%)h
+2rm10,107,Income-earning ability increased
+3rm10,208,-
+4rm10,373,"Youth placed in employment, education or training increased ('000)"
+4rm10,374,Special Program for Employment of Students (SPES)
+4rm10,375,Government Internship Program (GIP)
+4rm10,376,Jobstart
+4rm10,377,Private Education Student Financial Assistance (PESFA) Program
+4rm10,378,Training for Work Scholarship Program (TWSP)
+4rm10,379,Employment Facilitation (EF) Track
+4rm10,380,"Expanded Students' Grant-in-aid Program for Poverty Alleviation (ESGPPA), PAMANA and scholarship program for dependent children of sugarcane industry"
+4rm10,381,"Number of policies implemented, specifically under UNIFAST aimed at providing college-age youth access to higher education"
+3rm10,209,Employability improved
+4rm10,382,Number of higher education policies formulated to produce work-ready higher education graduates increased
+4rm10,383,Number of female students enrolled in advanced education program increased (cumulative)
+4rm10,384,Jobseekers referred for placement through the Public Employment Service
+4rm10,385,Individuals reached through the Labor Market Information
+3rm10,210,Productivity improved
+1rm11,9,Vulnerability of individuals and families reduced
+2rm11,108,Universal and transformative Social Protection (SP) for all achieved
+3rm11,211,"Percentage of population covered by PhilHealth insurance
+ (cumulative)"
+3rm11,212,"Proportion of poor senior citizens covered by social pension
+ (cumulative)"
+3rm11,213,Number of Conditional Cash Transfer (CCT) beneficiaries covered (cumulative)
+3rm11,214,Percentage of economically active population contributing to SSS pension scheme increased (cumulative)
+3rm11,215,Percentage of employed in the government covered by GSIS
+3rm11,216,Number of OFW membership to OWWA increased (cumulative)
+3rm11,217,Number of child laborers assisted
+3rm11,218,Number of families with child laborers provided with livelihood assistance
+3rm11,219,Percentage of families affected by natural and human-induced calamities provided with relief assistance
+3rm11,220,Percentage of emergency shelter assistance provided
+3rm11,221,All emergency loan applications by calamity-affected GSIS members and pensioners granted (%)
+3rm11,222,Ratio of total government spending in SP to GDP increased (%)
+3rm11,223,Ratio of total government spending in SP to the national budget increased (%)
+1rm12,10,"Access to affordable, adequate, safe, and secure shelter in well-planned communities expanded"
+2rm12,109,-
+3rm12,224,Proportion of socialized housing targets met to housing needs improved (%) (cumulative)
+3rm12,225,Proportion of low-cost housing targets met to housing needs improved (%) (Cumulative)
+3rm12,226,Number of socialized housing units delivered (cumulative)
+3rm12,227,Number of low-cost housing units delivered (cumulative)
+1rm13,11,Demographic transition accelerated
+1rm13,12,Maximize gains from the demographic dividend
+1rm14,13,Technology adoption promoted and accelerated 
+2rm14,110,"STI (science, technology and innovation) utilization in agriculture, industry and services sectors increased"
+3rm14,229,Number of technology adoptors increased (incremental)
+3rm14,230,Number of Filipino patents granted increased (cumulative)
+3rm14,231,Number of Filipino utility models registered increased (cumulative)
+3rm14,232,Number of Filipino industrial designs registered increased (cumulative)
+2rm14,111,"Investments in STI start-ups, enterprises and  spin offs increased"
+3rm14,233,Number of technology business incubators (TBI) graduates increased (i.e. enterprises and spin-offs)
+3rm14,234,"Number of innovation hubs increased (e.g. TBIs, innovation centers, niche centers, etc.) (cumulative)i"
+3rm14,235,R&D expenditure of business enterprises increased (in PHP Billion)j
+1rm14,14,Innovation stimulated
+2rm14,112,"Creative capacity for knowledge and technology generation, acquisition and adoptions enhanced"
+3rm14,236,"R&D expenditure as a proportion of GDP increased (in percent, cumulative)"
+3rm14,237,"Number of Researchers, Scientists and Engineers (RSEs) per million population Increased (cumulative)"
+3rm14,238,"Number of Science, Technology, Engineering, and Mathematics (STEM) enrollees in higher education institutes (HEIs) increased (in million, cumulative)"
+3rm14,239,Number of STEM graduates in HEIs increasedo
+3rm14,240,Number of STEM enrollees in high school increased
+3rm14,241,Number of STEM graduates in high school increased
+3rm14,242,Number of scientific articles published in International Scientific Indexing (ISI)/Scopus Index Journal by Filipino authors increased
+3rm14,243,Number of Innovation Hubs Established
+3rm14,244,Number of Balik Scientists Engaged increased (cumulative)
+2rm14,113,Open collaboration among actors in STI ecosystem strengthened
+3rm14,245,Number of collaborations between HEIs and industries increased (cumulative)
+3rm14,246,Number of collaborations between HEIs and government increased (NGAs and LGUs) (cumulative)
+3rm14,247,Number of STI-related international cooperations of HEIs increased (cumulative)
+3rm14,248,Number of new STI-related international cooperations of NGAs increased
+1rm15,15,"Stable, sound and supportive macroeconomic environment sustained"
+2rm15,114,"Responsible, strategic, and supportive fiscal sector achieved"
+3rm15,249,Incremental revenue of BIR with the implementation of tax administration and tax policy reform realized (% of GDP)
+3rm15,250,Incremental revenue of BOC with the implementation of tax administration and tax policy reform realized (% of GDP)
+3rm15,251,Incremental revenue of LTO with the implementation of tax administration and tax policy reform realized (% of GDP)
+3rm15,252,Number of Public Financial Management (PFM) practitioners who attended at least one PFM Competency Program (PFMCP) course increased
+3rm15,253,Number of training activities conducted on Government Procurement Reform Act (RA 9184) and its revised implementing rules and regulations (IRR) increased
+3rm15,254,Foreign currency debt maintained within debt management targets (% of total outstanding debt)
+3rm15,255,Average maturity of NG debt portfolio maintained within strategic guidelines (residual maturity in years)
+3rm15,256,All LGUs assessed on revenue and assessment performance (% of LGUs)
+3rm15,331,Government revenue-to-GDP ratio improved
+3rm15,332,Tax revenue to GDP ratio improved
+3rm15,333,Primary expenditure to GDP ratio improved
+3rm15,334,Percentage share of interest payments in the total disbursements declined
+3rm15,335,Ratio of discretionary spending to total budget increased
+3rm15,336,NG fiscal deficit to GDP ratio maintained
+3rm15,337,Percentage share of Outstanding NG debt stock to GDP reduced
+3rm15,338,Manageable consolidated public sector balance as a share of GDP maintained
+3rm15,339,Investment grade credit rating improved
+3rm15,340,Ratio of local source of LGU income to total current operating income increased
+2rm15,115,Resilient and inclusive monetary and financial sectors achieved
+3rm15,341,Low and stable inflation rate achieved
+3rm15,342,Growth of financial system's total assets increased
+3rm15,343,Gross National Savings to GNI Ratio sustained
+3rm15,344,Number of deposit accounts maintained above 50 million
+3rm15,345,Annual value of microfinance services delivery maintained above PHP10 billion
+3rm15,346,"Number of access points per 10,000 adults increased"
+3rm15,347,Percentage share of adults with formal account to total adult population maintained above 22 percent
+3rm15,348,Remittance costs as a proportion of the amount remitted reduced
+3rm15,349,Microinsurance penetration or density expanded
+3rm15,350,"Total number of applications for registration, licensure, or accreditation of stock corporations, non-stock corporations, partnerships, foreign corporations, multinational companies, capital market institutions, and professionals, and securities proc"
+3rm15,390,Value of securities registered increased
+2rm15,116,Strategic external trade policy regime achieved
+3rm15,257,Number of DTI-assisted technology-enabled and technology-based exporters increased
+3rm15,258,Number of validated enrollees to the Regional Interactive Platform for Philippine Exporters (RIPPLES) Plus Program exporting increased
+3rm15,259,Number of new export products certified as Halal increased
+3rm15,391,Exports of goods increased
+3rm15,392,Exports of services increased
+3rm15,393,Sustainable current account balance to GDP ratio achieved
+1rm16,16,Consumer welfare improved
+1rm16,17,Market efficiency improved
+2rm16,117,Anti-competitive practices diminished
+2rm16,118,Barriers to entry reduced
+2rm16,119,Limits to entrepreneurship reduced
+3rm16,260,"Proportion of recommendations  based on review of legislations and policies that may substantially prevent, restrict, or lessen competition (%)"
+3rm16,261,Number of rules and regulations reviewed 
+3rm16,262,"Proportion of corrective measures for identified GOCCs initiated (%, cumulative)"
+3rm16,394,Number of market studies released
+3rm16,395,Proportion of studies on competition law and economics of major academic and research institutions completed
+1rm17,18,Just and lasting peace attained
+2rm17,120,Peace agreements with all internal armed conflict groups successfully negotiated and implemented
+2rm17,121,Communities in conflict-affected and conflict vulnerable areas protected and developed
+1rm18,19,"Security, public order and safety ensured"
+2rm18,122,Territorial integrity and sovereignty upheld and protected
+2rm18,123,All forms of criminality and illegal drugs significantly reduced
+2rm18,124,Public safety ensured
+2rm18,125,Security and safety of overseas Filipinos ensured
+1rm19,20,Access to economic opportunities increased
+2rm19,126,Competitiveness and productivity of economic sectors increased
+3rm19,274,"New roads constructed (lane km, cumulative)"
+3rm19,275,"Total length of standard gauge rail tracks increased (km, cumulative)"
+3rm19,276,Number of night-rated airports increased
+3rm19,277,Rehabilitated irrigation service areas increased (Existing Areas (ha))
+3rm19,278,Rehabilitated irrigation service areas increased (Canals(km))
+3rm19,279,Restored irrigation service areas increased (ha) - National Irrigation System (NIS)
+3rm19,280,Restored irrigation service areas increased (ha) - Small-scale Irrigation Systems
+3rm19,281,Developed new service areas increased (ha) -NIS
+3rm19,282,Developed new service areas increased (ha) -SSIS
+3rm19,283,"Coverage area of irrigation facilities increased (ha, cumulative)"
+3rm19,284,"Renewable Energy (RE) capacity increased (MW, cumulative)"
+2rm19,127,Gaps in basic infrastructure for human capital development reduced
+3rm19,285,"Proportion of HHs with access to safe water supply to total number of HHs increased (%, cumulative)"
+3rm19,286,"Proportion of cities/municipalities served by water districts with 24/7 water supply increased (%, cumulative)"
+3rm19,287,Number of households served by WDs with water service connections increased (cumulative)
+3rm19,288,Volume of desludged and/or treated septage in WDs increased (m3)
+3rm19,289,"Proportion of HHs with electricity to total number of HHs increased (%, cumulative)"
+3rm19,290,"Proportion of barangays with access to Material Recovery Facilities (MRFs) to total no. of barangays (%, cumulative)"
+3rm19,291,"Proportion of barangays with access to Sanitary Land Fills (SLFs) to total number of barangays (%, cumulative)"
+1rm19,21,Human capital development accelerated
+2rm19,128,Gaps in basic infrastructure for human capital development reduced
+3rm19,292,"Proportion of public schools with connection to electricity to total number of public schools increased (%, cumulative) 
+- Primary (K to 6)
+- Junior High School
+- Senior High School"
+3rm19,293,"Proportion of public schools with internet access to total number of public schools increased (%, cumulative) 
+- Primary (K to 6)
+- Junior High School
+- Senior High School"
+3rm19,294,"Proportion of public schools with computer packages to total number of public schools increased (%, cumulative) 
+- Primary (K to 6)
+- Junior High School
+- Senior High School"
+1rm19,22,Vulnerability of the poor reduced
+2rm19,129,"Safety and security against natural and man-made disasters, especially for the poor improved."
+1rm19,23,Technology adoption advanced and innovation stimulated
+2rm19,130,Innovative solutions and technologies encouraged/adopted
+1rm20,24,Ecological integrity ensured and socioeconomic condition of resource-based communities improved
+2rm20,131,Biodiversity and functioning of ecosysytem services sustained
+3rm20,295,"Area of denuded and degraded forestland decreased (M ha, cumulative)"
+3rm20,296,Area planted with mangroves increased (ha)
+3rm20,297,"Area of forestland under effective management increased (M ha, cumulative)"
+3rm20,298,Production and protection forests delineated increased (km)
+3rm20,299,Coverage of protected areas in relation to marine areas increased (%)
+3rm20,300,Area of marine protected areas with high biodiversity values effectively managed increased (ha)
+3rm20,301,Number of coastal municipalities and cities with delineated and adopted municipal waters increased (annual)
+3rm20,302,Area of terrestrial protected areas with high biodiversity values effectively managed increased (ha)
+3rm20,303,Area of the 13 priority inland wetlands effectively managed increased (ha)
+3rm20,304,Number of caves with high conservation value effectively managed increased
+3rm20,305,Area of residential free patents issued increased (ha)
+3rm20,306,Number of issued Certificate of Ancestral Domain Title (CADTs) increased
+3rm20,307,Number of Ancestral Domain Sustainable Development and Protection Plan (ADSDPP) formulated
+3rm20,308,Number of groundwater critical areas with management plan and monitoring wells established
+3rm20,309,Number of Major River Basins (RB) with Comprehensive Water Assessment increased
+3rm20,310,Number of biodiversity-friendly enterprises recognized increased
+3rm20,311,"Number of jobs generated from reforestation and non-timber/agroforestry enterprises, i.e. NGP,CBFM, increased (M)"
+3rm20,312,Number of Community Fish Landing Centers (CFLC) established (cumulative)
+3rm20,313,Percentage of new and existing CFLC operationalized (cumulative)
+2rm20,132,Environmental quality improved
+3rm20,314,"Number of public utility vehicles that converted to cleaner fuels increased                    
+-Compressed natural gas 
+-Electric/Hybrid                                                    "
+3rm20,315,"Solid waste diversion rate increased (%, cumulative)"
+3rm20,316,Area assessed and mapped for soil fertility status and soil fertility management increased (ha)
+3rm20,317,Area of land degradation hotspots decreased (ha)
+3rm20,318,"Interim rehabilitation measures monitored and implemented in 4 abandoned mines increased (%, cumulative)
+- Bagacay
+- Palawan Quicksilver
+- Romblon Marble
+- Silica Sand Mine
+"
+3rm20,319,Percentage of the 36 surface metallic mines (operating/suspended) compliant with Annual Environmental Protection and Enhancement Program (EPEP)/Care and Maintenance Program (CMP) maintained (%)
+3rm20,320,Number of eco-labeled products increased
+3rm20,321,Total energy savings in government offices increased (PHP million)
+2rm20,133,Adaptive capacities and resilience of ecosystems increased
+3rm20,322,"Number of reviewed Climate Change (CC)/Disaster Risk Reduction Management (DRRM)-enhanced plans increased
+- Comprehensive Land Use Plans (CLUPs) 
+- Comprehensive Development. Plans  (CDPs)
+- Local Disaster Risk Reduction and Management Plans (LDRRMPs"
+3rm20,323,Number of LGUs with operating early warning systems (EWS) in place increased
+3rm20,324,"Number of fully-functional DRRM operations centers increased
+- Permanent
+- Temporary"
+3rm20,325,"GHG emissions per sector reduced (million MT CO2e)
+- Energy
+- Industrial
+- Agriculture 
+- LUCF
+- Waste 
+- Transport"
